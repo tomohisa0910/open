@@ -1,2 +1,2 @@
-# open_repository
+# open
 public repository
